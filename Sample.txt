@@ -22,7 +22,7 @@
             app:tabMode="fixed" />
 chane v1
 
-
+change 2
 
         <Button
             android:id="@+id/nextButton"
